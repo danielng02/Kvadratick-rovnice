@@ -24,7 +24,7 @@ namespace KvadratickaRovnice
             Console.ReadKey();
         }
     }
-    class Koren
+    public class Koren
     {
         public double x1;
         public double x2;
